@@ -1,0 +1,2 @@
+# Machine-Learning-Presentations
+This repository contains all the presentations made while doing my project with Dr. Senthilnath J, PhD(IISc), currently a Research Fellow at NTU, Singapore in Machine Learning in particular, Deep Learning which includes techniques like Self Organizing Maps (SOM), Unsupervised Extreme Learning Machine (US-ELM), Restricted Boltzmann Machine(RBM) and Deep Autoencoders
